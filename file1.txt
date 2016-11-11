@@ -1,0 +1,3 @@
+this is text file.
+this is dummy project.
+issue compling java program mostly bcoz openjdk has missing packages`
