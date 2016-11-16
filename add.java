@@ -1,5 +1,7 @@
 //import java.util.Scanner;
- 
+
+package p1;
+
 public class add
 {
    public static void main(String args[])
