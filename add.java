@@ -1,8 +1,8 @@
 //import java.util.Scanner;
 
-package p1;
+//package p1;
 
-public class add
+class add
 {
    public static void main(String args[])
    {
