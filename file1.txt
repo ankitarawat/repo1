@@ -11,3 +11,5 @@ making changes.
 
  wrote post-receive
  changed script
+
+ Added ssh key now trying github jenkins connection`
