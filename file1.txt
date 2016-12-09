@@ -14,4 +14,6 @@ making changes.
 
  Added ssh key now trying github jenkins connection
  
- tried scm polling`
+ tried scm pollinig`
+
+ 9-12-2016
